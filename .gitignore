@@ -15,9 +15,3 @@ audio/
 *.mp3
 speech_script.txt
 filelist.txt
-
-# Old files
-readme.md
-combine_audio.sh
-speech.txt
-voice_*.mp3
