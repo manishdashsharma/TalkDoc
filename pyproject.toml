@@ -1,0 +1,12 @@
+[project]
+name = "talkdoc"
+version = "1.0.0"
+description = "Convert your markdown documents into professional AI-powered voice explanations"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=2.14.0",
+    "python-dotenv>=1.2.1",
+]
+
+[project.scripts]
+talkdoc = "main:main"
